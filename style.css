@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(images/722683.jpg);
+    background-image: cover;
+}
+.form{
+
+    position: absolute;
+    left: 40%;
+}
+h2{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 10px;
+    color:white;
+}
+.vv{
+    font-size: 30px;
+    margin: 15px 0;
+    padding-left: 70px;
+}
+.vv input{
+    font-size:20px;
+    padding: 5px 5px;
+}
+.vv select{
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
+button{
+    font-size: large;
+    border-radius: 20px;
+    padding: 12px;
+    margin-left: 240px;
+}
+button:hover{
+    color: blue;
+    background-color: brown;
+}
